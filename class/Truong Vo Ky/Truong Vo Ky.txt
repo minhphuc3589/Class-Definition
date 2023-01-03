@@ -1,22 +1,22 @@
-Trương Vô Kỵ:
+Trương Vô Kỵ: [HOẢ]
 - Loại vũ khí: Đao
 - Kĩ năng:
-	+ Skill 1: [Nhất Đao Binh Pháp] [TẤN CÔNG]
+	+ Skill 1: [Nhất Đao Binh Pháp] [TẤN CÔNG] [AOE]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ chém ra 1 luồng kiếm khí ngang]
 	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ cho bất kì đối thủ nào trong phạm vi ảnh hưởng]
 	++ Hồi chiêu: tuỳ chọn
 
-	+ Skill 2: [Càn Khôn Đại Na Di] [TẤN CÔNG]
+	+ Skill 2: [Càn Khôn Đại Na Di] [TẤN CÔNG] [AOE]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 luồng khí cực mạnh xung quay bản thân, bán kính = 3 block]
 	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ cho bất kì đối thủ nào trong phạm vi ảnh hưởng]
 	++ Hồi chiêu: tuỳ chọn
 
-	+ Skill 3: [Hoả Đao Liệt Ảnh] [TẤN CÔNG]
+	+ Skill 3: [Hoả Đao Liệt Ảnh] [TẤN CÔNG] [AOE] [TIME]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 vòng tròn sau lưng, sau đó từ vòng tròn sẽ bắn ra hàng vạn thanh đao, kĩ năng tồn tại tại nơi người chơi kích hoạt là 2 giây]
-	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ và THIÊU ĐỐT mỗi giây 3% máu (trong 2 giây)]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*0.7 và THIÊU ĐỐT mỗi giây (3% + x*0.025% SÁT THƯƠNG PHÉP) máu (tồn tại trong 1 giây)]
 	++ Hồi chiêu: tuỳ chọn (lớn hơn 6 giây)
 
-	+ Skill 4: [Đoản Mệnh Đao Pháp] [TẤN CÔNG] [UNTIMATE]
+	+ Skill 4: [Đoản Mệnh Đao Pháp] [TẤN CÔNG] [SINGLE] [UNTIMATE]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ lướt tới 2 block, sau đó chém 1 nhát cực mạnh]
-	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ * 1.5 cho đơn mục tiêu]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*1.5 cho đơn mục tiêu]
 	++ Hồi chiêu: trễ hơn skill có "hồi kĩ năng lâu nhất" 25 - 30 giây
