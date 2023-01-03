@@ -18,5 +18,5 @@ Trương Vô Kỵ: [HOẢ]
 
 	+ Skill 4: [Đoản Mệnh Đao Pháp] [TẤN CÔNG] [SINGLE] [UNTIMATE]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ lướt tới 2 block, sau đó chém 1 nhát cực mạnh]
-	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*1.5 cho đơn mục tiêu]
-	++ Hồi chiêu: trễ hơn skill có "hồi kĩ năng lâu nhất" 25 - 30 giây
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*1.7 cho đơn mục tiêu]
+	++ Hồi chiêu: trễ hơn skill có "hồi kĩ năng lâu nhất" 15 - 20 giây
