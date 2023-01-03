@@ -6,4 +6,4 @@
     + Hiệu quả kĩ năng: [<Mô tả thông tin về SÁT THƯƠNG/HIỆU ỨNG KÈM THEO>]
     + Hồi chiêu: [<Thời gian hồi chiêu>]
   
-    ...
+    `...`
