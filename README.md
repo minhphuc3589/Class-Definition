@@ -10,8 +10,8 @@ Tất cả chỗ nào `"SÁT THƯƠNG HỖN HỢP" (x% SÁT THƯƠNG VẬT LÝ, 
 # Tất cả SÁT THƯƠNG: 
 + Kĩ năng theo thời gian mỗi giây < Kĩ năng AOE / 1.75
 + Kĩ năng AOE < Kĩ năng đơn mục tiêu / 2
-##`VD SÁT THƯƠNG`:
-++ Kĩ năng theo thời gian mỗi giây < Kĩ năng AOE / 1.75:
+## `VD SÁT THƯƠNG`:
++ Kĩ năng theo thời gian mỗi giây < Kĩ năng AOE / 1.75:
 - Kĩ năng theo thời gian: `120 SÁT THƯƠNG mỗi giây` => 2 giây tồn tại kĩ năng = 240 SÁT THƯƠNG
 - Kĩ năng AOE: `210 SÁT THƯƠNG`
 
