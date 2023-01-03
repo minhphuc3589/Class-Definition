@@ -1,0 +1,22 @@
+Lôi Thiên Sứ: [LÔI]
+- Loại vũ khí: Phép Thuật
+- Kỹ năng:
+	+ Skill 1: [Bạo Phát Thiên Lôi] [TẤN CÔNG] [SINGLE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ bắn ra 1 luồng điện với chiều rộng là 1 block]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP*0.9 và CHOÁNG (trong 1 giây) lên kẻ địch đầu tiên trúng phải]
+	++ Hồi chiêu: [tuỳ chọn]
+
+	+ Skill 2: [Thảo Phạt Xiềng Xích] [KHỐNG CHẾ] [SINGLE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ triệu hồi 1 sấm sét từ trên trời đánh xuống đơn mục tiêu chỉ định (chắc chắn trúng)]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP*0.5 và CHOÁNG 2 giây đối thủ trong phạm vi ảnh hưởng]
+	++ Hồi chiêu: [lớn hơn 7 giây]
+
+	+ Skill 3: [Âm U Thiên Giáng] [TẤN CÔNG] [AOE] [TIME]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ triệu hồi ra 1 vùng sấm sét, bán kính = 5 block, kĩ năng tồn tại trong 3 giây]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP mỗi giây và CHÓNG MẶT (trong 1 giây) tất cả đối thủ trong phạm vi ảnh hưởng]
+	++ Hồi chiêu: [lớn hơn 7 giây]
+
+	+ Skill 4: [Hoành Tảo Thiên Quân] [TẤN CÔNG] [AOE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ triệu hồi ra sấm sét xung quanh mình, bán kính = 6 block]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP*1.2 và CHOÁNG 4 giây đối thủ trong phạm vi ảnh hưởng]
+	++ Hồi chiêu: [trễ hơn skill có "hồi kĩ năng lâu nhất" là 10 - 15 giây]
