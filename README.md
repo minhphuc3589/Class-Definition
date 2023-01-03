@@ -10,7 +10,8 @@ Tất cả chỗ nào `"SÁT THƯƠNG HỖN HỢP" (x% SÁT THƯƠNG VẬT LÝ, 
 # Tất cả SÁT THƯƠNG: 
 + Kĩ năng theo thời gian mỗi giây = Kĩ năng AOE / 1.75
 + Kĩ năng AOE = Kĩ năng đơn mục tiêu / 2
-+ Kĩ năng Tổ Chú = Kĩ năng Thiêu Đốt = Kĩ năng Nguyền Độc
++ Kĩ năng AOE kèm hiệu ứng ĐỘC/THIÊU ĐỐT/TỔ CHÚ (WITHER) = Kĩ năng AOE * 0.7
++ Kĩ năng đơn mục tiêu kèm hiệu ứng ĐỘC/THIÊU ĐỐT/TỔ CHÚ (WITHER) = Kĩ năng đơn mục tiêu * 0.8 *(Ngoại trừ UNTIMATE)*
 ## `VD SÁT THƯƠNG`:
 ### Kĩ năng theo thời gian mỗi giây = Kĩ năng AOE / 1.75:
 - Kĩ năng theo thời gian: `120 SÁT THƯƠNG mỗi giây` => 2 giây tồn tại kĩ năng = 240 SÁT THƯƠNG.
