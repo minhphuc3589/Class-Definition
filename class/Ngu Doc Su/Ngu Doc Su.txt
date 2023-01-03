@@ -1,0 +1,21 @@
+Ngũ Độc Sư: [MỘC]
+- Loại vũ khí: Nguyền Pháp
+- Kĩ năng:
+	+ Skill 1: [Sa Lầy Kịch Độc] [TẤN CÔNG] [AOE] [TIME]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 bãi độc, bán kính = 4 block, kĩ năng tồn tại trong 2 giây]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP*0.7 và ĐỘC mỗi giây (4% + 0.0125% SÁT THƯƠNG PHÉP) máu (tồn tại trong 1 giây)]
+	++ Hồi chiêu: [lớn hơn 6 giây]
+
+	+ Skill 2: [Độc Đao Pháp] [TẤN CÔNG] [SINGLE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ phóng ra 1 thanh đao theo đường thẳng]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP*0.8 và ĐỘC mỗi giây (3% + 0.0125% SÁT THƯƠNG PHÉP) máu (tồn tại trong 1 giây)]
+	++ Hồi chiêu: [tuỳ chọn]
+
+	+ Skill 3: [Nguyền Khí] [TẤN CÔNG] [AOE] [TIME]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ phóng ra 1 luồng khí độc, kĩ năng tồn tại trong 3 giây]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP và LÀM CHẬM trong 2 giây]
+	++ Hồi chiêu: [tuỳ chọn]
+
+	+ Skill 4: [Đạt Ma Nguyền Độc Pháp] [TẤN CÔNG] [AOE] [UNTIMATE] [TIME]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này tạo ra 1 vòng tròn xung quanh bản thân, bán kính = 6 block, kĩ năng tồn tại trong 5 giây và di chuyển theo người thi truyển kĩ năng]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP và ĐỘC mỗi giây (5% + 0.025% SÁT THƯƠNG PHÉP) máu (tồn tại trong 1 giây)]
