@@ -1,5 +1,5 @@
 Trương Tam Phong: [PHONG]
-- Loại vũ khí: Nguyền Pháp
+- Loại vũ khí: Ma Thuật
 - Kĩ năng:
 	+ Skill 1: [Chướng Khí] [TẤN CÔNG] [AOE]
 	++ Mô tả: [Người sử dụng kĩ năng này chưởng ra 1 luồng khí mạnh về phía trước]
