@@ -1,4 +1,4 @@
-<Tên class>: [<Nguyên tố của class>]
+<Tên class>: [<Nguyên tố của class>]\n
 - Loại vũ khí: <Vũ khí>
 - Kĩ năng:
   + Skill 1: [<Tên kĩ năng>] [<Loại kĩ năng>] [<Vùng ảnh hưởng>] (<UNTIMATE>)
