@@ -1,5 +1,5 @@
 Trương Vô Kỵ: [HOẢ]
-- Loại vũ khí: Đao
+- Loại vũ khí: Nặng
 - Kĩ năng:
 	+ Skill 1: [Nhất Đao Binh Pháp] [TẤN CÔNG] [AOE]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ chém ra 1 luồng kiếm khí ngang]
