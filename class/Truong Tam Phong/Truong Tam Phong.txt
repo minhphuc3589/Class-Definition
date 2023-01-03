@@ -17,8 +17,8 @@ Trương Tam Phong: [PHONG]
 	++ Hồi chiêu: [tuỳ chọn]
 
 	+ Skill 4: [Bát Quái Trận] [TẤN CÔNG] [SINGLE] [UNTIMATE] [TIME]
-	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 trận đồ Bát Quái xung quanh bản thân mình]
-	++ Hiệu quả kĩ năng: [Bất kì đối thủ nào trong vùng ảnh hưởng sẽ bị gây SÁT THƯƠNG VẬT LÝ*0.3 mỗi giây 1 lần (tối đa 16 lần) (ưu tiên đánh mục tiêu GẦN NHẤT)]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 trận đồ Bát Quái xung quanh bản thân mình, tồn tại trong 10 giây]
+	++ Hiệu quả kĩ năng: [Bất kì đối thủ nào trong vùng ảnh hưởng sẽ bị gây SÁT THƯƠNG VẬT LÝ*0.3 mỗi giây 2 lần (tối đa 16 lần) (ưu tiên đánh mục tiêu GẦN NHẤT)]
 	++ Hồi chiêu: [trễ hơn skill có "hồi kĩ năng lâu nhất" 15 - 20 giây]
 
 	+ Skill 5: [Tụ Thiên Khí] [KHỐNG CHẾ] [AOE] [TIME]
