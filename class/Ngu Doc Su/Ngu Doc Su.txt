@@ -1,5 +1,5 @@
 Ngũ Độc Sư: [MỘC]
-- Loại vũ khí: Nguyền Pháp
+- Loại vũ khí: Ma Thuật
 - Kĩ năng:
 	+ Skill 1: [Sa Lầy Kịch Độc] [TẤN CÔNG] [AOE] [TIME]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 bãi độc, bán kính = 4 block, kĩ năng tồn tại trong 2 giây]
