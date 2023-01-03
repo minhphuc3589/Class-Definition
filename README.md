@@ -1,4 +1,4 @@
-# Tất cả chỗ nào "/ ...": Nghĩa là tên chưa hay/hoàn chỉnh
+ Tất cả chỗ nào ```/ ...```: `Nghĩa` là tên chưa hay/hoàn chỉnh
 
 # Tất cả chỗ nào "SÁT THƯƠNG HỖN HỢP (x% SÁT THƯƠNG VẬT LÝ, y% SÁT THƯƠNG PHÉP)": Nghĩa là "x%" và "y%" gây dựa trên "SÁT THƯƠNG TỔNG HỢP"
 ## VD: 
