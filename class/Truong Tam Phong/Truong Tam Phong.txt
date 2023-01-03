@@ -1,27 +1,27 @@
-Trương Tam Phong:
+Trương Tam Phong: [PHONG]
 - Loại vũ khí: Nguyền Pháp
 - Kĩ năng:
-	+ Skill 1: [Chướng Khí] [TẤN CÔNG]
+	+ Skill 1: [Chướng Khí] [TẤN CÔNG] [AOE]
 	++ Mô tả: [Người sử dụng kĩ năng này chưởng ra 1 luồng khí mạnh về phía trước]
 	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG PHÉP và LÀM CHẬM cho TẤT CẢ ĐỐI THỦ đứng trên đường sử dụng kĩ năng]
 	++ Hồi chiêu: tuỳ chọn
 	
-	+ Skill 2: [Vô Ảnh Chân Khí] [PHÒNG THỦ]
+	+ Skill 2: [Vô Ảnh Chân Khí] [PHÒNG THỦ] [DEFENSE] [TIME]
 	++ Mô tả: [Người sử dụng kĩ năng này tạo ra 1 tấm khiên trên người]
 	++ Hiệu quả kĩ năng: [Tấm khiên chặn TẤT CẢ SÁT THƯƠNG TỪ XA trong 2 giây và TĂNG TỐC CHẠY trong 2 giây]
 	++ Hồi chiêu: trễ hơn "kĩ năng tấn công" 5 - 10 giây
 
-	+ Skill 3: [Phi Ảo Hoàn Kích / ...] [TẤN CÔNG]
+	+ Skill 3: [Phi Ảo Hoàn Kích / ...] [TẤN CÔNG] [AOE]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ lao lên phía trước 1 đoạn và đá nhanh 5 cước theo vùng 4x3]
 	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG HỖN HỢP(80% SÁT THƯƠNG VẬT LÝ, 20% SÁT THƯƠNG PHÉP)]
 	++ Hồi chiêu: tuỳ chọn
 
-	+ Skill 4: [Bát Quái Trận] [TẤN CÔNG] [UNTIMATE]
+	+ Skill 4: [Bát Quái Trận] [TẤN CÔNG] [SINGLE] [UNTIMATE] [TIME]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 trận đồ Bát Quái xung quanh bản thân mình]
-	++ Hiệu quả kĩ năng: [Bất kì đối thủ nào trong vùng ảnh hưởng sẽ bị gây SÁT THƯƠNG PHÉP 16 lần liên tiếp (ưu tiên đánh mục tiêu CAO máu nhất)]
+	++ Hiệu quả kĩ năng: [Bất kì đối thủ nào trong vùng ảnh hưởng sẽ bị gây SÁT THƯƠNG VẬT LÝ*1.2 mỗi giây 2 lần (tối đa 16 lần) (ưu tiên đánh mục tiêu GẦN NHẤT)]
 	++ Hồi chiêu: trễ hơn skill có "hồi kĩ năng lâu nhất" 20 - 25 giây
 
-	+ Skill 5: [Tụ Thiên Khí] [KHỐNG CHẾ]
+	+ Skill 5: [Tụ Thiên Khí] [KHỐNG CHẾ] [AOE] [TIME]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 2 luồng khí 4x2 (1 cái bên phải, 1 cái bên trái) cùng di chuyển vào chính giữa người thi truyển, cách người thi truyển ngay trước mặt 1 block và duy trì ở đó 2 giây]
 	++ Hiệu quả kĩ năng: [Bất kì kẻ địch nào trong phạm vi ảnh hưởng của kĩ năng sẽ bị giữ chân cho đến khi kĩ năng kết thúc]
 	++ Hồi chiêu: tuỳ chọn (lớn hơn 5s)
