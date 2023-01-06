@@ -1,0 +1,22 @@
+Andez: [PHONG]
+- Loại vũ khí: Nhẹ
+- Kĩ năng:
+	+ Skill 1: [Liệt Phong Trảm] [TẤN CÔNG] [AOE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 đường kiếm dọc]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ cho tất cả đối thủ trong vùng ảnh hưởng]
+	++ Hồi chiêu: tuỳ chọn
+
+	+ Skill 2: [Ảnh Phong Tiêu] [TẤN CÔNG] [SINGLE] [TIME]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ ném vũ khí về phía trước]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ cho kẻ địch đầu tiên vào vùng ảnh hưởng]
+	++ Hồi chiêu: tuỳ chọn
+
+	+ Skill 3: [Huyền Phong Thiên Thụ] [BUFF]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo 1 luồng khí xung quanh bản thân mình]
+	++ Hiệu quả kĩ năng: [Nhận hiệu ứng TĂNG TỐC CHẠY, TĂNG TỐC ĐÁNH và SÁT THƯƠNG*15% (trong 4 giây)]
+	++ Hồi chiêu: lớn hơn 10 giây
+
+	+ Skill 4: [Đại Đồ Phong Thiên Hoá] [TẤN CÔNG] [UNTIMATE] [TIME]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ cắm vũ khí xuống mặt đất và tạo ra 1 vùng bán kính = 7 block, trong vùng chứa đầy gió, tồn tại trong 7 giây]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*1.2 mỗi giây, LÀM CHẬM và CHÓNG MẶT (trong 1 giây) cho bất kì kẻ địch nào trong vùng ảnh hưởng]
+	++ Hồi chiêu: trễ hơn skill có "hồi kĩ năng lâu nhất" 15 - 20 giây
