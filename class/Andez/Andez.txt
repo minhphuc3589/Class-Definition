@@ -8,7 +8,7 @@ Andez: [PHONG]
 
 	+ Skill 2: [Ảnh Phong Tiêu] [TẤN CÔNG] [SINGLE] [TIME]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ ném vũ khí về phía trước]
-	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ cho kẻ địch đầu tiên vào vùng ảnh hưởng]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ cho kẻ địch đầu tiên trúng kĩ năng]
 	++ Hồi chiêu: tuỳ chọn
 
 	+ Skill 3: [Huyền Phong Thiên Thụ] [BUFF]
