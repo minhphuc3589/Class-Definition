@@ -13,7 +13,7 @@ Trương Vô Kỵ: [HOẢ]
 
 	+ Skill 3: [Hoả Đao Liệt Ảnh] [TẤN CÔNG] [AOE] [TIME]
 	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra 1 vòng tròn sau lưng, sau đó từ vòng tròn sẽ bắn ra hàng vạn thanh đao, kĩ năng tồn tại tại nơi người chơi kích hoạt là 2 giây]
-	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*0.7 và THIÊU ĐỐT mỗi giây (3% + x*0.025% SÁT THƯƠNG PHÉP) máu (tồn tại trong 1 giây)]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ*0.7 và THIÊU ĐỐT mỗi giây (3% + x*0.25% SÁT THƯƠNG PHÉP) máu (tồn tại trong 1 giây)]
 	++ Hồi chiêu: tuỳ chọn (lớn hơn 6 giây)
 
 	+ Skill 4: [Đoản Mệnh Đao Pháp] [TẤN CÔNG] [SINGLE] [UNTIMATE]
