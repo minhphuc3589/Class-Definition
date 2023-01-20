@@ -1,0 +1,22 @@
+Mitsuki Joshiba: [THUỶ]
+- Loại vũ khí: Xạ Tiễn
+- Kĩ năng:
+	+ Skill 1: [Nhất Tiễn Song Điêu] [TẤN CÔNG] [SINGLE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ bắn ra 1 mũi tên]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ lên tất cả kẻ địch đầu tiên trúng phải]
+	++ Hồi chiêu: [tuỳ chọn]
+
+	+ Skill 2: [Cạm Bẫy Thuỷ Lực] [KHỐNG CHẾ] [AOE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo 1 ra cái bẫy, tồn tại trong 15 giây, chiều dài = 2 block, hình vuông. Tích luỹ 3]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG HỖN HỢP*0.7(60% SÁT THƯƠNG VẬT LÝ, 40% SÁT THƯƠNG PHÉP) và LÀM CHẬM (trong 3 giây)]
+	++ Hồi chiêu: [lớn hơn 6 giây]
+
+	+ Skill 3: [Lẩn Trốn] [BUFF]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ tạo ra hiệu ứng khói xung quanh bản thân]
+	++ Hiệu quả kĩ năng: [Nhận TÀNG HÌNH và TĂNG TỐC (trong 2 giây)]
+	++ Hồi chiêu: [lớn hơn 6 giây]
+
+	+ Skill 4: [Thiên Hoành Bộ Thỉ] [TẤN CÔNG] [AOE] [UNTIMATE]
+	++ Mô tả: [Người chơi sử dụng kĩ năng này sẽ bắn lên trời 1 loạt mũi tên. Sau 1 giây, trên trời rơi xuống mưa tên, bán kính = 6 block]
+	++ Hiệu quả kĩ năng: [Gây SÁT THƯƠNG VẬT LÝ và LÀM CHẬM (trong 4 giây) tất cả kẻ địch trong tầm ảnh hưởng]
+	++ Hồi chiêu: [trễ hơn skill có "hồi kĩ năng lâu nhất" là 15 - 20 giây]
